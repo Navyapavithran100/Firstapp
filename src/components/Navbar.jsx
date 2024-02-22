@@ -17,6 +17,18 @@ const Navbar = () => {
                 <Button>
                 <Link to='/C' style={{color:'white'}} >counter</Link>
                 </Button>
+                <Button>
+                <Link to='/t' style={{color:'white'}} >Table</Link>
+                </Button>
+                <Button>
+                <Link to='/b' style={{color:'white'}} >Listname</Link>
+                </Button>
+                <Button>
+                <Link to='/k' style={{color:'white'}} >Api</Link>
+                </Button>
+                <Button>
+                <Link to='/n' style={{color:'white'}} >Gridget</Link>
+                </Button>
         </Toolbar>
       </AppBar>
     </div>
